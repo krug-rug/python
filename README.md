@@ -1,2 +1,2 @@
 # python
-tsis is repository of source codes of python
+this is repository of source codes of python
